@@ -1,7 +1,8 @@
 # LiaisonDonnees
 
 **Présentation du projet**
-Le but est de réaliser une bibliotheque de classe afin de l'utiliser dans une application console.
+
+-Le but est de réaliser une bibliotheque de classes afin de l'utiliser dans une application console.
 
 >Tout d'abord la création des classes qui sont liées à la base de données GESPER :
 
